@@ -26,13 +26,14 @@ GameOfLife
 |- tests/                     # unit-тесты
 |- Makefile                   # сборка проекта
 | README.md
+
 ```
 
 ## Сборка
 make
 
 ## Запуск
-./game
+./builds/game
 
 ## Тестирование
 make test
