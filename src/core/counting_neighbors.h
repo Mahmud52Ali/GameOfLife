@@ -1,0 +1,7 @@
+#ifndef COUNTING_NEIGHBORS
+#define COUNTING_NEIGHBORS
+
+#define HEIGHT 25
+#define WIDTH 80
+
+#endif
